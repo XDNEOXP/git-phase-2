@@ -1,3 +1,7 @@
 Code .
 
 npm run start
+
+crtl + C to exit 
+
+newLine
